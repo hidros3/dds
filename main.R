@@ -1,6 +1,10 @@
-# group by age_group
-# and desc data1 using age_group
-# plot graph
+# 1. group by age_group
+# 2. CTR at someday
+# 3. group by something using CTR at someday
+# 4. plot subsets by sex and sign-in at someday
+# 5. desc data 1 using age_group at someday
+# 6. expand the day
+
 library(psych)
 library(ggplot2)
 
