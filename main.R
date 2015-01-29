@@ -2,6 +2,7 @@
 # and desc data1 using age_group
 # plot graph
 library(psych)
+library(ggplot2)
 
 data1 <- read.csv(url("http://taekjoobucket.s3.amazonaws.com/data/nyt1.csv"))
 break_point <- c(-Inf,0,18, 24, 34, 44, 54, 64,Inf)
