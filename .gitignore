@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
+=======
+/datasets
+.Rproj.user/.*
+
+.Rproj.user
+>>>>>>> 8c56f78ed4edebb0a3e6d42f07db316b1f52a8e3
